@@ -32,3 +32,4 @@ docker tag $img $reg/$ns/$img
 # ensure login into ACR
 # docker login
 docker push $reg/$ns/$img
+
